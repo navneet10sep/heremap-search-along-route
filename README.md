@@ -1,4 +1,4 @@
-# heremap-search-along-route
+# heremap-search-along-route - JavaScript
 
 Search locations along the route polyine based on the buffered distance from polyline points. This example decode heremap the polyline object using flex-polyline to get geo cordinates for each poly point then furthure reduce the number of points using simplyjs.
 
