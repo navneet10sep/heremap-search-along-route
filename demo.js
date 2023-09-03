@@ -30,7 +30,7 @@ function onError(error) {
 var mapContainer = document.getElementById('map'),
   routeInstructionsContainer = document.getElementById('panel');
 var platform = new H.service.Platform({
-  apikey: 'SPd-YZBduRqqKier7tcT_fgmeTLEv3laYyWBCb_XBJ0'
+  apikey: 'USE YOUR KEY'
 });
 
 var defaultLayers = platform.createDefaultLayers();
